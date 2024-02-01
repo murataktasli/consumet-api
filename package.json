@@ -35,7 +35,7 @@
         "fastify-cors": "^6.1.0",
         "ioredis": "^5.2.4",
         "reconnecting-websocket": "^4.4.0",
-        "ts-node": "^10.9.1",
+        "ts-node": "^10.9.2",
         "typescript": "5.1.6",
         "ws": "^8.8.1"
     },
